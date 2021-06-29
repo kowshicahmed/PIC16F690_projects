@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F690 -DL -O11111114 -fo4 -N"F:\pic project\mikroc_projects\MCU_pic16f690_projects\TIMER\TIMER_2\TIMER_2_MULTIPLE_PWM\TIMER_2_MULTIPLE_PWM.mcppi" -SP"F:\microc\mikroC PRO for PIC\defs\" -SP"F:\microc\mikroC PRO for PIC\Uses\P16\" -SP"F:\pic project\mikroc_projects\MCU_pic16f690_projects\TIMER\TIMER_2\TIMER_2_MULTIPLE_PWM\" "TIMER_2_MULTIPLE_PWM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_B.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_R.mcl" "__Lib_PWM_c5.mcl" "__Lib_SPI_b64c7.mcl" "__Lib_UART_b75.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 240 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 1092 ms	 
+diagnostics: 0	122	Compilation Started	TIMER_2_MULTIPLE_PWM.c
+diagnostics: 132	123	Compiled Successfully	TIMER_2_MULTIPLE_PWM.c
+diagnostics: 0	127	All files Compiled in 171 ms	 
+hint: 0	1144	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)
+hint: 0	1144	Used ROM (program words): 195 (5%)  Free ROM (program words): 3901 (95%)	Used ROM (program words): 195 (5%)  Free ROM (program words): 3901 (95%)
+diagnostics: 0	125	Project Linked Successfully	TIMER_2_MULTIPLE_PWM.mcppi
+diagnostics: 0	128	Linked in 312 ms	 
+diagnostics: 0	129	Project 'TIMER_2_MULTIPLE_PWM.mcppi' completed: 1669 ms	 
+diagnostics: 0	103	Finished successfully: 06 Jul 2013, 12:17:03	TIMER_2_MULTIPLE_PWM.mcppi

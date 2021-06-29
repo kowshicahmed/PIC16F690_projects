@@ -1,0 +1,7 @@
+main
+	InitUART
+	SendStringSerially
+		____DoICP
+		SendByteSerially
+	SendByteSerially
+interrupt
